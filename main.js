@@ -3,6 +3,7 @@ const apiURL = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/`;
 
 
 // função para consulta a taxa de cambio via API 
+// ##############################################
 async function getExchangeRete(deMoeda, paraMoeda){
     // trata erro try 
     try{
@@ -17,6 +18,10 @@ async function getExchangeRete(deMoeda, paraMoeda){
     }catch (error){
         console.error("Erro:", error);
         return null;
-
     }
 }
+// ##############################################
+
+document.getElementById('currency-form').addEventListener('submit', async function(event){
+    
+});
