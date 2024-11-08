@@ -2,6 +2,8 @@
 
 <h1 align="center">  Conversor de Moedas com Cotações em Tempo Real🌎💸</h1>
 
+<p align="center"> <img src="print.jpeg" alt="Exemplo do Conversor de Moedas" width="700"> </p>
+
 * Este projeto é uma evolução de uma versão anterior, com o objetivo de aprimorar a funcionalidade de conversão entre diferentes moedas. A nova versão do sistema foi projetada para ser mais eficiente, flexível e precisa, permitindo aos usuários realizar conversões de valores com base nas taxas de câmbio mais recentes e de forma intuitiva.
 <h1 align="center"> 💡 Funcionalidade de Conversão</h1> 
 
